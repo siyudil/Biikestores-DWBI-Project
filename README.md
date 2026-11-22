@@ -123,12 +123,6 @@ bikestores-dwbi-project/
 
 SQL Server · SSIS · SSAS (Multidimensional) · Visual Studio · Excel PivotTables · Power BI / DAX · Star-schema dimensional modelling · SCD Type 2
 
-## 📝 Notes
-
-- Connection strings use Windows Authentication and a local server name; change them for your machine.
-- Source CSV/TXT files and SSIS packages are described in the docs but are not included in this repository.
-
 ## 👤 Author
 
 **H.F.S.D. Fonseka** – IT23654280 · SLIIT Malabe Campus
-GitHub: [@your-username](https://github.com/your-username)
