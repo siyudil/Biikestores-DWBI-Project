@@ -125,4 +125,4 @@ SQL Server · SSIS · SSAS (Multidimensional) · Visual Studio · Excel PivotTab
 
 ## 👤 Author
 
-**H.F.S.D. Fonseka** – IT23654280 · SLIIT Malabe Campus
+**H.F.S.D. Fonseka** – IT23654280 | SLIIT Malabe Campus
